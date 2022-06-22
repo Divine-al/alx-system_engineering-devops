@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /tmp mkdir my_fisrt_directory cd my_fisrt_directory
+mkdir /tmp/my_fisrt_directory
